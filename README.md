@@ -41,13 +41,13 @@ JARVIS is a voice-activated AI assistant built using Python. It can perform a wi
 1. **Clone the repository:**
    git clone https://github.com/your-username/jarvis-assistant.git
    cd jarvis-assistant
+   
 Install required dependencies:
 
 pip install -r requirements.txt
 Run the assistant:
-
-
 python jarvis.py
+
 📦 Requirements
 Ensure you have the following libraries installed:
 
@@ -63,6 +63,7 @@ pywhatkit
 You can install them all via:
 
 pip install pyttsx3 SpeechRecognition pyautogui wikipedia requests pyjokes psutil pywhatkit
+
 Also install pyaudio:
 
 
