@@ -209,6 +209,6 @@ if __name__ == "__main__":
   
 while running:
     command = listen()
-    if command.strip():  # only process non-empty commands
+    if command.strip(): 
         running = process_command(command)
 
